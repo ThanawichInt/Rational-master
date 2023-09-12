@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RationalTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-09-12T15:24:43" hostname="arms-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testAdd" classname="RationalTest" time="0.002"/>
+  <testcase name="testDiv" classname="RationalTest" time="0.0"/>
+  <testcase name="testMul" classname="RationalTest" time="0.0"/>
+  <testcase name="testSub" classname="RationalTest" time="0.0"/>
+  <testcase name="testEqual" classname="RationalTest" time="0.0"/>
+  <testcase name="testToString" classname="RationalTest" time="0.002"/>
+  <testcase name="testCompareTo" classname="RationalTest" time="0.0"/>
+  <testcase name="testParaConstruct" classname="RationalTest" time="0.0"/>
+  <testcase name="testConstruct" classname="RationalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
